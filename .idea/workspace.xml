@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef386cd7-4469-4f77-abdc-fb1110cf6548" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinglish/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinglish/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinglish/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinglish/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinglish/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinglish/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,18 +67,26 @@
       <option name="project" value="LOCAL" />
       <updated>1583938999823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新建APP">
+      <created>1583939437238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583939437238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="改DIRS" />
-    <option name="LAST_COMMIT_MESSAGE" value="改DIRS" />
+    <MESSAGE value="新建APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建APP" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="965" y="122" key="CommitChangelistDialog2" timestamp="1583938999651">
+    <state x="965" y="122" key="CommitChangelistDialog2" timestamp="1583939437090">
       <screen x="0" y="23" width="1920" height="1007" />
     </state>
-    <state x="965" y="122" key="CommitChangelistDialog2/0.23.1920.1007@0.23.1920.1007" timestamp="1583938999651" />
+    <state x="965" y="122" key="CommitChangelistDialog2/0.23.1920.1007@0.23.1920.1007" timestamp="1583939437090" />
     <state x="928" y="453" key="Github.CreateGistDialog" timestamp="1583937302938">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
