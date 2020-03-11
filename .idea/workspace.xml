@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef386cd7-4469-4f77-abdc-fb1110cf6548" name="Default Changelist" comment="" />
+    <list default="true" id="ef386cd7-4469-4f77-abdc-fb1110cf6548" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,13 +30,17 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/chinglish/templates/hello" />
       <recent name="$PROJECT_DIR$/chinglish/templates" />
       <recent name="$PROJECT_DIR$/chinglish" />
@@ -46,9 +57,25 @@
       <option name="presentableId" value="Default" />
       <updated>1583767166139</updated>
     </task>
+    <task id="LOCAL-00001" summary="改DIRS">
+      <created>1583938999823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583938999823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="改DIRS" />
+    <option name="LAST_COMMIT_MESSAGE" value="改DIRS" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="965" y="122" key="CommitChangelistDialog2" timestamp="1583938999651">
+      <screen x="0" y="23" width="1920" height="1007" />
+    </state>
+    <state x="965" y="122" key="CommitChangelistDialog2/0.23.1920.1007@0.23.1920.1007" timestamp="1583938999651" />
     <state x="928" y="453" key="Github.CreateGistDialog" timestamp="1583937302938">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
